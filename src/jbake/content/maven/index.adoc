@@ -1,0 +1,34 @@
+= Maven
+Andres Almiray
+:jbake-type: page
+:jbake-status: published
+:linkattrs:
+:icons:         font
+:project-owner: kordamp
+:project-repo:  maven
+
+== Maven Shade Plugin - Extra Transformers
+
+:project-name:  maven-shade-ext-transformers
+:project-group: org.kordamp.shade
+
+image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/maven-central/v/{project-group}/{project-name}.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
+image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+
+Additional transformers for link:http://maven.apache.org/plugins/maven-shade-plugin/[maven-shade-plugin].
+
+icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
+
+== OCI Maven Plugin
+
+:project-name: oci-maven-plugin
+image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+
+A Maven plugin for the link:https://github.com/oracle/oci-java-sdk[Java SDK for Oracle Cloud Infrastructure].
+
+icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code] +
+icon:book[]  link:http://kordamp.org/{project-name}/[Guide]
