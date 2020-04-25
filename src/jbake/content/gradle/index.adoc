@@ -26,9 +26,21 @@ icon:book[]  link:http://kordamp.org/{project-name}/[Guide]
 image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
-A Layzbones project template for projects configured with Kordamp plugins.
+A Lazybones project template for projects configured with Kordamp plugins.
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
+
+== Enforcer Gradle Plugin
+
+:project-name: enforcer-gradle-plugin
+image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+
+Enforce build and project settings. A port of the popular link:https://maven.apache.org/enforcer/[Maven Enforcer] plugin.
+
+icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code] +
+icon:book[]  link:http://kordamp.org/{project-name}/[Guide]
 
 == Jandex Gradle Plugin
 
