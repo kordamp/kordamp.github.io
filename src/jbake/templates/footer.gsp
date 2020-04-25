@@ -4,7 +4,7 @@
     
     <div id="footer">
       <div class="container">
-        <p class="muted credit">&copy; 2006-2019 | Mixed with <a href="http://getbootstrap.com/">Bootstrap v4.4.1</a> | Baked with <a href="http://jbake.org">JBake ${version}</a></p>
+        <p class="muted credit">&copy; 2006-2020 | Mixed with <a href="http://getbootstrap.com/">Bootstrap v4.4.1</a> | Baked with <a href="http://jbake.org">JBake ${version}</a></p>
       </div>
     </div>
     
