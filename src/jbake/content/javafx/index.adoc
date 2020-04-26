@@ -12,9 +12,9 @@ Andres Almiray
 :project-name:  bootstrapfx
 :project-group: org.kordamp.bootstrapfx
 
-image:http://img.shields.io/badge/license-MIT-blue.svg["MIT Licensed", link="http://opensource.org/licenses/MIT"]
+image:https://img.shields.io/badge/license-MIT-blue.svg["MIT Licensed", link="https://opensource.org/licenses/MIT"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}-core/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}-core/_latestVersion"]
 
@@ -27,9 +27,9 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  desktoppanefx
 :project-group: org.kordamp.desktoppanefx
 
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
@@ -42,13 +42,13 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  harmonicfx
 :project-group: org.kordamp.harmonicfx
 
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
-A collection of link:http://harmoniccode.blogspot.ch/search/label/fridayfun[Friday Fun] JavaFX components authored by
+A collection of link:https://harmoniccode.blogspot.ch/search/label/fridayfun[Friday Fun] JavaFX components authored by
 link:https://twitter.com/hansolo_[@hansolo_].
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
@@ -58,9 +58,9 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  ikonli
 :project-group: org.kordamp.ikonli
 
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
@@ -73,9 +73,9 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  jsilhouette
 :project-group: org.kordamp.jsilhouette
 
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-javafx.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 

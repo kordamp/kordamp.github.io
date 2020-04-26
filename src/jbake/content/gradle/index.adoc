@@ -10,21 +10,21 @@ Andres Almiray
 == Kordamp Gradle Plugins
 
 :project-name: kordamp-gradle-plugins
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 This project provides a set of Gradle plugins that follow an opinionated way to build Java and Groovy projects.
 The conventions define by these plugins closely follow common practices observed in many Open Source projects.
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code] +
-icon:book[]  link:http://kordamp.org/{project-name}/[Guide]
+icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 
 == Kordamp Gradle Project Template
 
 :project-name: kordamp-gradle-project-template
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 A Lazybones project template for projects configured with Kordamp plugins.
@@ -34,22 +34,22 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == Enforcer Gradle Plugin
 
 :project-name: enforcer-gradle-plugin
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 Enforce build and project settings. A port of the popular link:https://maven.apache.org/enforcer/[Maven Enforcer] plugin.
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code] +
-icon:book[]  link:http://kordamp.org/{project-name}/[Guide]
+icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 
 == Jandex Gradle Plugin
 
 :project-name: jandex-gradle-plugin
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 Gradle plugin for link:https://github.com/wildfly/jandex[Jandex], a space efficient Java annotation indexer and offline reflection library.
@@ -59,9 +59,9 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == JDeps Gradle Plugin
 
 :project-name: jdeps-gradle-plugin
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 Runs the `jdeps` command on the project’s output and all of its dependencies.
@@ -71,9 +71,9 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == JDeprscan Gradle Plugin
 
 :project-name: jdeprscan-gradle-plugin
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 Runs the `jdeprscan` command on the project’s output.
@@ -83,9 +83,9 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == Markdown Gradle Plugin
 
 :project-name: markdown-gradle-plugin
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 This plugin provides a facility for converting markdown into HTML, as well as converting HTML back into markdown.
@@ -95,22 +95,22 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == OCI Gradle Plugin
 
 :project-name: oci-gradle-plugin
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 A Gradle plugin for the link:https://github.com/oracle/oci-java-sdk[Java SDK for Oracle Cloud Infrastructure].
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code] +
-icon:book[]  link:http://kordamp.org/{project-name}/[Guide]
+icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 
 == OCI Gradle Build Cache Plugin
 
 :project-name: oci-gradle-build-cache-plugin
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 This is a custom Gradle link:https://docs.gradle.org/current/userguide/build_cache.html[build cache] implementation which uses
@@ -121,13 +121,13 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == yGuard Gradle Plugin
 
 :project-name: yguard-gradle-plugin
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 Gradle plugin for obfuscating Java code with link:https://www.yworks.com/products/yguard[yGuard].
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code] +
-icon:book[]  link:http://kordamp.org/{project-name}/[Guide]
+icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 

@@ -12,25 +12,25 @@ Andres Almiray
 :project-name:  ezmorph
 :project-group: org.kordamp.ezmorph
 
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 Simple Java library for transforming an Object to another Object.
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code] +
-icon:book[]  link:http://kordamp.org/{project-name}/[Guide]
+icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 
 == Gipsy
 
 :project-name:  gipsy
 :project-group: org.kordamp.gipsy
 
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
@@ -43,8 +43,8 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  jipsy
 :project-group: org.kordamp.jipsy
 
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
@@ -57,9 +57,9 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  json-lib
 :project-group: org.kordamp.json
 
-image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="http://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:http://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
