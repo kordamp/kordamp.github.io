@@ -1,0 +1,19 @@
+= Go
+Andres Almiray
+:jbake-type: page
+:jbake-status: published
+:linkattrs:
+:icons:         font
+:project-owner: kordamp
+
+== Gum
+
+:project-name: gum
+image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
+image:http://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/Apache-2.0"]
+image:https://img.shields.io/badge/donations-Patreon-orange.svg[link="https://www.patreon.com/user?u=6609318"]
+
+Gum is a link:https://gradle.org[Gradle]/link:https:maven.apache.org[Maven] wrapper written in link:https://golang.org/[Go],
+inspired in link:https://github.com/dougborg/gdub[https://github.com/dougborg/gdub] and link:https://github.com/srs/gw[https://github.com/srs/gw].
+
+icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
