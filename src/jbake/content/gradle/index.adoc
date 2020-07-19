@@ -80,6 +80,18 @@ Runs the `jdeprscan` command on the project’s output.
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 
+== LiveReload Gradle Plugin
+
+:project-name: livereload-gradle-plugin
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
+image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
+image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+
+Gradle plugin for link:http://livereload.com/[LiveReload].
+
+icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
+
 == Markdown Gradle Plugin
 
 :project-name: markdown-gradle-plugin
