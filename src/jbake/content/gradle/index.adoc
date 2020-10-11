@@ -49,19 +49,27 @@ icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 :project-name: jandex-gradle-plugin
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 Gradle plugin for link:https://github.com/wildfly/jandex[Jandex], a space efficient Java annotation indexer and offline reflection library.
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 
+== JBang Gradle Plugin
+
+:project-name: jbang-gradle-plugin
+image:https://img.shields.io/badge/license-MIT-blue.svg["MIT Licensed", link="https://opensource.org/licenses/MIT"]
+image:https://github.com/jbangdev/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/jbangdev/{project-name}/actions"]
+
+The JBang Gradle plugin allows JBang scripts to be executed during a Gradle build.
+
+icon:github[] link:https://github.com/jbangdev/{project-name}/[Code]
+
 == JDeps Gradle Plugin
 
 :project-name: jdeps-gradle-plugin
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 Runs the `jdeps` command on the project’s output and all of its dependencies.
