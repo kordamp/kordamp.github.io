@@ -24,7 +24,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  desktoppanefx
 :project-group: org.kordamp.desktoppanefx
 
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 
@@ -37,7 +37,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  harmonicfx
 :project-group: org.kordamp.harmonicfx
 
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 
@@ -51,7 +51,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  ikonli
 :project-group: org.kordamp.ikonli
 
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 
@@ -64,7 +64,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  jsilhouette
 :project-group: org.kordamp.jsilhouette
 
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-javafx.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 

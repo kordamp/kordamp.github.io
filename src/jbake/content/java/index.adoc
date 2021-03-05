@@ -11,7 +11,7 @@ Andres Almiray
 :project-name:  ezmorph
 :project-group: org.kordamp.ezmorph
 
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 
@@ -25,7 +25,7 @@ icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 :project-name:  gipsy
 :project-group: org.kordamp.gipsy
 
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 
@@ -38,7 +38,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  jipsy
 :project-group: org.kordamp.jipsy
 
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-processor.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 
@@ -51,7 +51,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name:  json-lib
 :project-group: org.kordamp.json
 
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
 

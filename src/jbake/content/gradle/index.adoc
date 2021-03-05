@@ -11,7 +11,7 @@ Andres Almiray
 :project-name: kordamp-gradle-plugins
 :plugin-path:  org/kordamp/gradle/base
 :plugin-id:    org.kordamp.gradle.base
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
@@ -24,7 +24,7 @@ icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 == Kordamp Gradle Project Template
 
 :project-name: kordamp-gradle-project-template
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 
 A Lazybones project template for projects configured with Kordamp plugins.
 
@@ -35,7 +35,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name: enforcer-gradle-plugin
 :plugin-path:  org/kordamp/gradle/enforcer
 :plugin-id:    org.kordamp.gradle.enforcer
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
@@ -49,7 +49,7 @@ icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 :project-name: jandex-gradle-plugin
 :plugin-path:  org/kordamp/gradle/jandex
 :plugin-id:    org.kordamp.gradle.jandex
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
@@ -75,7 +75,7 @@ icon:github[] link:https://github.com/jbangdev/{project-name}/[Code]
 :project-name: jdeps-gradle-plugin
 :plugin-path:  org/kordamp/gradle/jdeps
 :plugin-id:    org.kordamp.gradle.jdeps
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
@@ -88,7 +88,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name: jdeprscan-gradle-plugin
 :plugin-path:  org/kordamp/gradle/jdeprscan
 :plugin-id:    org.kordamp.gradle.jdeprscan
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
@@ -101,7 +101,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name: livereload-gradle-plugin
 :plugin-path:  org/kordamp/gradle/livereload
 :plugin-id:    org.kordamp.gradle.livereload
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
@@ -114,7 +114,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name: markdown-gradle-plugin
 :plugin-path:  org/kordamp/gradle/markdown
 :plugin-id:    org.kordamp.gradle.markdown
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
@@ -127,7 +127,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name: oci-gradle-plugin
 :plugin-path:  org/kordamp/gradle/oci
 :plugin-id:    org.kordamp.gradle.oci
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
@@ -141,7 +141,7 @@ icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 :project-name: oci-gradle-build-cache-plugin
 :plugin-path:  org/kordamp/gradle/oci-build-cache
 :plugin-id:    org.kordamp.gradle.oci-build-cache
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
@@ -155,7 +155,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 :project-name: yguard-gradle-plugin
 :plugin-path:  org/kordamp/gradle/yguard
 :plugin-id:    org.kordamp.gradle.yguard
-image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
 image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
