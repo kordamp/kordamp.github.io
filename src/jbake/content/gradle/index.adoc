@@ -5,14 +5,15 @@ Andres Almiray
 :linkattrs:
 :icons:         font
 :project-owner: kordamp
-:project-repo:  maven
 
 == Kordamp Gradle Plugins
 
 :project-name: kordamp-gradle-plugins
+:plugin-path:  org/kordamp/gradle/base
+:plugin-id:    org.kordamp.gradle.base
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 This project provides a set of Gradle plugins that follow an opinionated way to build Java and Groovy projects.
 The conventions define by these plugins closely follow common practices observed in many Open Source projects.
@@ -24,7 +25,6 @@ icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 
 :project-name: kordamp-gradle-project-template
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 A Lazybones project template for projects configured with Kordamp plugins.
 
@@ -33,9 +33,11 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == Enforcer Gradle Plugin
 
 :project-name: enforcer-gradle-plugin
+:plugin-path:  org/kordamp/gradle/enforcer
+:plugin-id:    org.kordamp.gradle.enforcer
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 Enforce build and project settings. A port of the popular link:https://maven.apache.org/enforcer/[Maven Enforcer] plugin.
 
@@ -45,9 +47,11 @@ icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 == Jandex Gradle Plugin
 
 :project-name: jandex-gradle-plugin
+:plugin-path:  org/kordamp/gradle/jandex
+:plugin-id:    org.kordamp.gradle.jandex
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 Gradle plugin for link:https://github.com/wildfly/jandex[Jandex], a space efficient Java annotation indexer and offline reflection library.
 
@@ -56,8 +60,11 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == JBang Gradle Plugin
 
 :project-name: jbang-gradle-plugin
+:plugin-path:  dev/jbang
+:plugin-id:    dev.jbang
 image:https://img.shields.io/badge/license-MIT-blue.svg["MIT Licensed", link="https://opensource.org/licenses/MIT"]
 image:https://github.com/jbangdev/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/jbangdev/{project-name}/actions"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 The JBang Gradle plugin allows JBang scripts to be executed during a Gradle build.
 
@@ -66,9 +73,11 @@ icon:github[] link:https://github.com/jbangdev/{project-name}/[Code]
 == JDeps Gradle Plugin
 
 :project-name: jdeps-gradle-plugin
+:plugin-path:  org/kordamp/gradle/jdeps
+:plugin-id:    org.kordamp.gradle.jdeps
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 Runs the `jdeps` command on the project’s output and all of its dependencies.
 
@@ -77,9 +86,11 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == JDeprscan Gradle Plugin
 
 :project-name: jdeprscan-gradle-plugin
+:plugin-path:  org/kordamp/gradle/jdeprscan
+:plugin-id:    org.kordamp.gradle.jdeprscan
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 Runs the `jdeprscan` command on the project’s output.
 
@@ -88,9 +99,11 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == LiveReload Gradle Plugin
 
 :project-name: livereload-gradle-plugin
+:plugin-path:  org/kordamp/gradle/livereload
+:plugin-id:    org.kordamp.gradle.livereload
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 Gradle plugin for link:http://livereload.com/[LiveReload].
 
@@ -99,9 +112,11 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == Markdown Gradle Plugin
 
 :project-name: markdown-gradle-plugin
+:plugin-path:  org/kordamp/gradle/markdown
+:plugin-id:    org.kordamp.gradle.markdown
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 This plugin provides a facility for converting markdown into HTML, as well as converting HTML back into markdown.
 
@@ -110,9 +125,11 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == OCI Gradle Plugin
 
 :project-name: oci-gradle-plugin
+:plugin-path:  org/kordamp/gradle/oci
+:plugin-id:    org.kordamp.gradle.oci
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 A Gradle plugin for the link:https://github.com/oracle/oci-java-sdk[Java SDK for Oracle Cloud Infrastructure].
 
@@ -122,9 +139,11 @@ icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
 == OCI Gradle Build Cache Plugin
 
 :project-name: oci-gradle-build-cache-plugin
+:plugin-path:  org/kordamp/gradle/oci-build-cache
+:plugin-id:    org.kordamp.gradle.oci-build-cache
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 This is a custom Gradle link:https://docs.gradle.org/current/userguide/build_cache.html[build cache] implementation which uses
 the link:https://www.oracle.com/cloud/[Oracle Cloud] to store the cache objects.
@@ -134,12 +153,13 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 == yGuard Gradle Plugin
 
 :project-name: yguard-gradle-plugin
+:plugin-path:  org/kordamp/gradle/yguard
+:plugin-id:    org.kordamp.gradle.yguard
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
+image:https://img.shields.io/maven-metadata/v?label=Plugin%20Portal&metadataUrl=https://plugins.gradle.org/m2/{plugin-path}/{plugin-id}.gradle.plugin/maven-metadata.xml["Gradle Plugin Portal, link="https://plugins.gradle.org/plugin/{plugin-id}"]
 
 Gradle plugin for obfuscating Java code with link:https://www.yworks.com/products/yguard[yGuard].
 
 icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code] +
 icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
-

@@ -5,7 +5,6 @@ Andres Almiray
 :linkattrs:
 :icons:         font
 :project-owner: kordamp
-:project-repo:  maven
 
 == BootstrapFX
 
@@ -14,9 +13,7 @@ Andres Almiray
 
 image:https://img.shields.io/badge/license-MIT-blue.svg["MIT Licensed", link="https://opensource.org/licenses/MIT"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}-core/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}-core/_latestVersion"]
 
 Bootstrap for JavaFX.
 
@@ -29,9 +26,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 DesktopPaneFX is a JavaFX version of Swing’s JDesktopPane which can be used as a container for individual "child" similar to JInternalFrames.
 
@@ -44,9 +39,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 A collection of link:https://harmoniccode.blogspot.ch/search/label/fridayfun[Friday Fun] JavaFX components authored by
 link:https://twitter.com/hansolo_[@hansolo_].
@@ -60,9 +53,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 Ikonli provides icon packs that can be used in Java applications. Currently Swing and JavaFX UI toolkits are supported.
 
@@ -75,9 +66,7 @@ icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
 
 image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://opensource.org/licenses/ASL2"]
 image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
-image:https://img.shields.io/travis/{project-owner}/{project-name}/master.svg["Build Status (travis)", link="https://travis-ci.org/{project-owner}/{project-name}"]
 image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-javafx.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
-image:https://api.bintray.com/packages/{project-owner}/{project-repo}/{project-name}/images/download.svg[link="https://bintray.com/{project-owner}/{project-repo}/{project-name}/_latestVersion"]
 
 JSilhouette provides additional shapes for Java applications. Currently JavaFX is supported.
 
