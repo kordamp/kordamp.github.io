@@ -14,6 +14,7 @@
               Projects
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="/cli">CLI</a>
               <a class="dropdown-item" href="/gradle">Gradle</a>
               <a class="dropdown-item" href="/maven">Maven</a>
               <a class="dropdown-item" href="/java">Java</a>

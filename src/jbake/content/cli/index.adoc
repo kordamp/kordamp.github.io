@@ -1,0 +1,35 @@
+= CLI
+Andres Almiray
+:jbake-type: page
+:jbake-status: published
+:linkattrs:
+:icons:         font
+:project-owner: kordamp
+
+== Jarviz
+
+:project-name: jarviz
+:project-group: org.kordamp.jarviz
+:project-artifactId: jarviz-core
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
+image:http://img.shields.io/github/actions/workflow/status/{project-owner}/{project-name}/early-access.yml?branch=main&logo=github&label=Build["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
+image:https://img.shields.io/maven-central/v/{project-group}/{project-artifactId}.svg[Download, link="https://search.maven.org/#search|ga|1|g:{project-group} AND a:{project-artifactId}"]
+
+Jarviz is a JAR file analyzer tool. You can obtain metadata from a JAR such as its manifest, manifest entries,
+bytecode versions, declarative services, Java module descriptors and more.
+
+icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code]
+
+== PomChecker
+
+:project-name: pomchecker
+:project-group: org.kordamp.maven
+image:https://img.shields.io/badge/license-ASL2-blue.svg["ASL2 Licensed", link="https://spdx.org/licenses/Apache-2.0.html"]
+image:https://github.com/{project-owner}/{project-name}/workflows/Build/badge.svg["Build Status", link="https://github.com/{project-owner}/{project-name}/actions"]
+image:https://img.shields.io/maven-central/v/{project-group}/{project-name}-core.svg?label=maven[link="https://search.maven.org/#search|ga|1|{project-group}"]
+
+The PomChecker plugin provides goals to check the contents of a POM file.
+
+icon:github[] link:https://github.com/{project-owner}/{project-name}/[Code] +
+icon:book[]  link:https://kordamp.org/{project-name}/[Guide]
+
